@@ -1,0 +1,31 @@
+{
+    "games": [
+        {
+            "name": "Buckshot Roulette.exe",
+            "files": [
+                "Buckshot Roulette_windows.part01.rar",
+                "Buckshot Roulette_windows.part02.rar",
+                "Buckshot Roulette_windows.part03.rar",
+                "Buckshot Roulette_windows.part04.rar",
+                "Buckshot Roulette_windows.part05.rar",
+                "Buckshot Roulette_windows.part06.rar",
+                "Buckshot Roulette_windows.part07.rar",
+                "Buckshot Roulette_windows.part08.rar",
+                "Buckshot Roulette_windows.part09.rar",
+                "Buckshot Roulette_windows.part10.rar",
+                "Buckshot Roulette_windows.part11.rar",
+                "Buckshot Roulette_windows.part12.rar",
+                "Buckshot Roulette_windows.part13.rar",
+                "Buckshot Roulette_windows.part14.rar",
+
+            ]
+        },
+        {
+            "name": " ",
+            "files": [
+                " ",
+                " "
+            ]
+        }
+    ]
+}
