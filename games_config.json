@@ -168,6 +168,17 @@
                 "ScrapMechanic.z140",
                 "ScrapMechanic.z141"
             ]
+        },
+        {
+            "name": "Retro Gadgets",
+            "files": [
+                "Retro.Gadgets.v0.1.9.part01.rar",
+                "Retro.Gadgets.v0.1.9.part02.rar",
+                "Retro.Gadgets.v0.1.9.part03.rar",
+                "Retro.Gadgets.v0.1.9.part04.rar",
+                "Retro.Gadgets.v0.1.9.part05.rar",
+                "Retro.Gadgets.v0.1.9.part06.rar"
+            ]
         }
     ]
 }
